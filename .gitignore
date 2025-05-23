@@ -1,0 +1,36 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+Assets/Plugins/Editor/JetBrains*
+MemoryCaptures/
+UserSettings/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.booproj
+*.user
+*.userprefs
+*.db
+*.log
+
+# Crash logs
+sysinfo.txt
+error.log
+
+# Local build configs
+*.apk
+*.aab
+
+# Uncomment to track only your .unity + code
+# !Assets/**/*.cs
+# !Assets/**/*.unity
